@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+canvas {
+    border: 1px solid white;
+}
+
+form {
+    margin-top: 20px;
+}
+
+table {
+    color: white;
+}
